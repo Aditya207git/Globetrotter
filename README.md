@@ -5,13 +5,14 @@ This Project is about finding the shortest path from a starting node to one/mult
 along with obstacles in between.
 
 Algorithms Implemented : 
-1.Single Source-Single Destination:
+
+1. Single Source-Single Destination:
 
 i)Astar Algorithm
 
 ii)Dijkstra Algorithm
 
-2.Single Source-Multiple destinations:
+2. Single Source-Multiple destinations:
 
 i)Held-Karp Algorithm
 
